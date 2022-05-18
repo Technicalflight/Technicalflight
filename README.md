@@ -20,6 +20,10 @@ Here are some ideas to get you started:
 
 一个菜鸡小程序员
 
+
+![](http://antzuhl.cn:4000/get/@Technicalflight.readme)
+
+
 **About me**
 
 - 💼 一个可能算是程序员的大学生[Technicalflight](https://github.com/Technicalflight)

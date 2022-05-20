@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 一个菜鸡小程序员
 
 [![Readme Card](https://readme-stats-sable.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Technicalflight/github-readme-stats)
-[![Readme Card](https://readme-stats-sable.vercel.app/api/pin/?username=Technicalflight&repo=HowToCook)](https://github.com/Technicalflight/HowToCook)
+[![Readme Card](https://readme-stats-sable.vercel.app/api/pin/?username=Technicalflight&repo=Technicalflight)](https://github.com/Technicalflight/Technicalflight)
 
 **About me**
 

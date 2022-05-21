@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center"><a href="https://github.com/Technicalflight"><img width="80%" src="./Technicalflight.png" /></a></p>
+<p align="center"><a href="https://github.com/Technicalflight"><img width="80%" src="https://www.helloimg.com/images/2022/05/22/ZG6MbT.jpg" /></a></p>
 
 <br />
 

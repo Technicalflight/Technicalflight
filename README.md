@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <br />
 
-一个菜鸡小程序员
+一个菜鸡小程序员,欢迎各位大佬！！！
 
 [![Readme Card](https://readme-stats-sable.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Technicalflight/github-readme-stats)
 [![Readme Card](https://readme-stats-sable.vercel.app/api/pin/?username=Technicalflight&repo=Technicalflight)](https://github.com/Technicalflight/Technicalflight)

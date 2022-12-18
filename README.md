@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 [![Readme Card](https://readme-stats-sable.vercel.app/api/pin/?username=Technicalflight&repo=Technicalflight)](https://github.com/Technicalflight/Technicalflight)
 
 **About me**
+![notion avatar](https://notion-avatar.vercel.app/api/img/eyJmYWNlIjoxMiwibm9zZSI6MiwibW91dGgiOjYsImV5ZXMiOjgsImV5ZWJyb3dzIjo5LCJnbGFzc2VzIjo3LCJoYWlyIjo4LCJhY2Nlc3NvcmllcyI6MCwiZGV0YWlscyI6MCwiYmVhcmQiOjAsImZsaXAiOjAsImNvbG9yIjoicmdiYSgyNTUsIDAsIDAsIDApIiwic2hhcGUiOiJub25lIn0=)
 
 - 💼 一个可能算是程序员的大学生[Technicalflight](https://github.com/Technicalflight)
 

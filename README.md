@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 📈 只在github上面做了几个小项目。
 
-- ❤️ 我喜欢编写 C#、Java、Python等。
+- ❤️ 我喜欢编写 JavaScript、前端、Python等。
 
 - 💬 Ask me about anything [here](https://github.com/Technicalflight/Technicalflight/issues)
 
